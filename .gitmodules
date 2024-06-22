@@ -1,0 +1,123 @@
+[submodule "AFKPlus"]
+	path = AFKPlus
+	url = https://github.com/true-og/AFKPlus
+[submodule "AnnouncerPlus"]
+	path = AnnouncerPlus
+	url = https://github.com/true-og/AnnouncerPlus
+[submodule "AntiPieRay"]
+	path = AntiPieRay
+	url = https://github.com/true-og/AntiPieRay
+[submodule "AntiPopup"]
+	path = AntiPopup
+	url = https://github.com/true-og/AntiPopup
+[submodule "AreaShop"]
+	path = AreaShop
+	url = https://github.com/true-og/AreaShop
+[submodule "BetterChairs"]
+	path = BetterChairs
+	url = https://github.com/true-og/BetterChairs
+[submodule "Chunky"]
+	path = Chunky
+	url = https://github.com/true-og/Chunky
+[submodule "CoreProtect"]
+	path = CoreProtect
+	url = https://github.com/true-og/CoreProtect
+[submodule "DropHeads"]
+	path = DropHeads
+	url = https://github.com/true-og/DropHeads
+[submodule "EternalCombat"]
+	path = EternalCombat
+	url = https://github.com/true-og/EternalCombat
+[submodule "FancyHolograms"]
+	path = FancyHolograms
+	url = https://github.com/true-og/FancyHolograms
+[submodule "GameModeInventories"]
+	path = GameModeInventories
+	url = https://github.com/true-og/GameModeInventories
+[submodule "Insights"]
+	path = Insights
+	url = https://github.com/true-og/Insights
+[submodule "InteractiveChat"]
+	path = InteractiveChat
+	url = https://github.com/true-og/InteractiveChat
+[submodule "ItemJoin"]
+	path = ItemJoin
+	url = https://github.com/true-og/ItemJoin
+[submodule "LuckPerms"]
+	path = LuckPerms
+	url = https://github.com/true-og/LuckPerms
+[submodule "MiniMOTD"]
+	path = MiniMOTD
+	url = https://github.com/true-og/MiniMOTD
+[submodule "MiniPlaceholders"]
+	path = MiniPlaceholders
+	url = https://github.com/true-og/MiniPlaceholders
+[submodule "Multiverse-Core"]
+	path = Multiverse-Core
+	url = https://github.com/true-og/Multiverse-Core
+[submodule "Multiverse-Inventories"]
+	path = Multiverse-Inventories
+	url = https://github.com/true-og/Multiverse-Inventories
+[submodule "Multiverse-SignPortals"]
+	path = Multiverse-SignPortals
+	url = https://github.com/true-og/Multiverse-SignPortals
+[submodule "Item-NBT-API"]
+	path = Item-NBT-API
+	url = https://github.com/true-og/Item-NBT-API
+[submodule "NoCheatPlus"]
+	path = NoCheatPlus
+	url = https://github.com/true-og/NoCheatPlus
+[submodule "OpenInv"]
+	path = OpenInv
+	url = https://github.com/true-og/OpenInv
+[submodule "ProtocolLib"]
+	path = ProtocolLib
+	url = https://github.com/true-og/ProtocolLib
+[submodule "QuickShop-Hikari"]
+	path = QuickShop-Hikari
+	url = https://github.com/true-og/QuickShop-Hikari
+[submodule "RayTraceAntiXray"]
+	path = RayTraceAntiXray
+	url = https://github.com/true-og/RayTraceAntiXray
+[submodule "SimpleClans"]
+	path = SimpleClans
+	url = https://github.com/true-og/SimpleClans
+[submodule "TAB"]
+	path = TAB
+	url = https://github.com/true-og/TAB
+[submodule "TabCompleteFilter"]
+	path = TabCompleteFilter
+	url = https://github.com/true-og/TabCompleteFilter
+[submodule "TCPShield"]
+	path = TCPShield
+	url = https://github.com/true-og/TCPShield
+[submodule "ViaBackwards"]
+	path = ViaBackwards
+	url = https://github.com/true-og/ViaBackwards
+[submodule "ViaRewind"]
+	path = ViaRewind
+	url = https://github.com/true-og/ViaRewind
+[submodule "ViaRewind-Legacy-Support"]
+	path = ViaRewind-Legacy-Support
+	url = https://github.com/true-og/ViaRewind-Legacy-Support
+[submodule "ViaVersion"]
+	path = ViaVersion
+	url = https://github.com/true-og/ViaVersion
+[submodule "VotingPlugin"]
+	path = VotingPlugin
+	url = https://github.com/true-og/VotingPlugin
+[submodule "WorldEdit"]
+	path = WorldEdit
+	url = https://github.com/true-og/WorldEdit
+[submodule "WorldEditSUI"]
+	path = WorldEditSUI
+	url = https://github.com/true-og/WorldEditSUI
+[submodule "WorldGuard"]
+	path = WorldGuard
+	url = https://github.com/true-og/WorldGuard
+[submodule "WorldGuardGUI"]
+	path = WorldGuardGUI
+	url = https://github.com/true-og/WorldGuardGUI
+[submodule "yamipa"]
+	path = yamipa
+	url = https://github.com/true-og/yamipa
