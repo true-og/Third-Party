@@ -79,9 +79,6 @@
 [submodule "SimpleClans"]
 	path = SimpleClans
 	url = https://github.com/true-og/SimpleClans
-[submodule "TAB"]
-	path = TAB
-	url = https://github.com/true-og/TAB
 [submodule "TabCompleteFilter"]
 	path = TabCompleteFilter
 	url = https://github.com/true-og/TabCompleteFilter
