@@ -1,9 +1,6 @@
 [submodule "AFKPlus"]
 	path = AFKPlus
 	url = https://github.com/true-og/AFKPlus
-[submodule "AnnouncerPlus"]
-	path = AnnouncerPlus
-	url = https://github.com/true-og/AnnouncerPlus
 [submodule "AntiPieRay"]
 	path = AntiPieRay
 	url = https://github.com/true-og/AntiPieRay
