@@ -40,9 +40,6 @@
 [submodule "ItemJoin"]
 	path = ItemJoin
 	url = https://github.com/true-og/ItemJoin
-[submodule "LuckPerms"]
-	path = LuckPerms
-	url = https://github.com/true-og/LuckPerms
 [submodule "MiniMOTD"]
 	path = MiniMOTD
 	url = https://github.com/true-og/MiniMOTD
