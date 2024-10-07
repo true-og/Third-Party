@@ -109,3 +109,6 @@
 [submodule "yamipa"]
 	path = yamipa
 	url = https://github.com/true-og/yamipa
+[submodule "MiniPlaceholders-LuckPerms"]
+	path = MiniPlaceholders-LuckPerms
+	url = https://github.com/true-og/MiniPlaceholders-LuckPerms
