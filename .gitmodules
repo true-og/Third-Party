@@ -16,9 +16,6 @@
 [submodule "CoreProtect"]
 	path = CoreProtect
 	url = https://github.com/true-og/CoreProtect
-[submodule "DropHeads"]
-	path = DropHeads
-	url = https://github.com/true-og/DropHeads
 [submodule "EternalCombat"]
 	path = EternalCombat
 	url = https://github.com/true-og/EternalCombat
