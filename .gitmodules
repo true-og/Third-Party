@@ -49,9 +49,6 @@
 [submodule "Multiverse-SignPortals"]
 	path = Multiverse-SignPortals
 	url = https://github.com/true-og/Multiverse-SignPortals
-[submodule "Item-NBT-API"]
-	path = Item-NBT-API
-	url = https://github.com/true-og/Item-NBT-API
 [submodule "NoCheatPlus"]
 	path = NoCheatPlus
 	url = https://github.com/true-og/NoCheatPlus
