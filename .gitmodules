@@ -55,9 +55,6 @@
 [submodule "ProtocolLib"]
 	path = ProtocolLib
 	url = https://github.com/true-og/ProtocolLib
-[submodule "QuickShop-Hikari"]
-	path = QuickShop-Hikari
-	url = https://github.com/true-og/QuickShop-Hikari
 [submodule "RayTraceAntiXray"]
 	path = RayTraceAntiXray
 	url = https://github.com/true-og/RayTraceAntiXray
