@@ -10,9 +10,6 @@
 [submodule "Chunky"]
 	path = Chunky
 	url = https://github.com/true-og/Chunky
-[submodule "CoreProtect"]
-	path = CoreProtect
-	url = https://github.com/true-og/CoreProtect
 [submodule "EternalCombat"]
 	path = EternalCombat
 	url = https://github.com/true-og/EternalCombat
