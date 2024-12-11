@@ -19,9 +19,6 @@
 [submodule "GameModeInventories"]
 	path = GameModeInventories
 	url = https://github.com/true-og/GameModeInventories
-[submodule "Insights"]
-	path = Insights
-	url = https://github.com/true-og/Insights
 [submodule "InteractiveChat"]
 	path = InteractiveChat
 	url = https://github.com/true-og/InteractiveChat
@@ -97,3 +94,6 @@
 [submodule "PlaceholderAPI"]
 	path = PlaceholderAPI
 	url = https://github.com/true-og/PlaceholderAPI/
+[submodule "ChunkSpawnerLimiter"]
+	path = ChunkSpawnerLimiter
+	url = https://github.com/true-og/ChunkSpawnerLimiter
