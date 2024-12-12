@@ -22,9 +22,6 @@
 [submodule "InteractiveChat"]
 	path = InteractiveChat
 	url = https://github.com/true-og/InteractiveChat
-[submodule "ItemJoin"]
-	path = ItemJoin
-	url = https://github.com/true-og/ItemJoin
 [submodule "MiniMOTD"]
 	path = MiniMOTD
 	url = https://github.com/true-og/MiniMOTD
@@ -97,3 +94,6 @@
 [submodule "ChunkSpawnerLimiter"]
 	path = ChunkSpawnerLimiter
 	url = https://github.com/true-og/ChunkSpawnerLimiter
+[submodule "EssentialsKitGUI"]
+	path = EssentialsKitGUI
+	url = https://github.com/true-og/EssentialsKitGUI
