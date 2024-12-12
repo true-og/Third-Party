@@ -22,9 +22,6 @@
 [submodule "InteractiveChat"]
 	path = InteractiveChat
 	url = https://github.com/true-og/InteractiveChat
-[submodule "MiniMOTD"]
-	path = MiniMOTD
-	url = https://github.com/true-og/MiniMOTD
 [submodule "MiniPlaceholders"]
 	path = MiniPlaceholders
 	url = https://github.com/true-og/MiniPlaceholders
@@ -97,3 +94,6 @@
 [submodule "EssentialsKitGUI"]
 	path = EssentialsKitGUI
 	url = https://github.com/true-og/EssentialsKitGUI
+[submodule "AdvancedServerList"]
+	path = AdvancedServerList
+	url = https://github.com/true-og/AdvancedServerList
