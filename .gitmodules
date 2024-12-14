@@ -100,3 +100,6 @@
 [submodule "BuildBattle"]
 	path = BuildBattle
 	url = https://github.com/true-og/BuildBattle
+[submodule "Panilla"]
+	path = Panilla
+	url = https://github.com/true-og/Panilla
