@@ -103,3 +103,6 @@
 [submodule "Panilla"]
 	path = Panilla
 	url = https://github.com/true-og/Panilla
+[submodule "TextGenerator"]
+	path = TextGenerator
+	url = https://github.com/true-og/TextGenerator
