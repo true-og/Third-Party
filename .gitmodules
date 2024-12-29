@@ -106,3 +106,6 @@
 [submodule "TextGenerator"]
 	path = TextGenerator
 	url = https://github.com/true-og/TextGenerator
+[submodule "Item-NBT-API"]
+	path = Item-NBT-API
+	url = https://github.com/true-og/Item-NBT-API
