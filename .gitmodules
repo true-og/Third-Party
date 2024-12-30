@@ -109,3 +109,6 @@
 [submodule "Item-NBT-API"]
 	path = Item-NBT-API
 	url = https://github.com/true-og/Item-NBT-API
+[submodule "ViaPotions"]
+	path = ViaPotions
+	url = https://github.com/true-og/ViaPotions
