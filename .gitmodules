@@ -112,3 +112,6 @@
 [submodule "ViaPotions"]
 	path = ViaPotions
 	url = https://github.com/true-og/ViaPotions
+[submodule "AntiPieRay"]
+	path = AntiPieRay
+	url = https://github.com/true-og/AntiPieRay
