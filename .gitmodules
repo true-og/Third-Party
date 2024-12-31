@@ -76,9 +76,6 @@
 [submodule "WorldEditSUI"]
 	path = WorldEditSUI
 	url = https://github.com/true-og/WorldEditSUI
-[submodule "WorldGuardGUI"]
-	path = WorldGuardGUI
-	url = https://github.com/true-og/WorldGuardGUI
 [submodule "yamipa"]
 	path = yamipa
 	url = https://github.com/true-og/yamipa
