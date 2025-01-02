@@ -115,3 +115,6 @@
 [submodule "Maintenance"]
 	path = Maintenance
 	url = https://github.com/true-og/Maintenance
+[submodule "WorldGuard"]
+	path = WorldGuard
+	url = https://github.com/true-og/WorldGuard
