@@ -118,3 +118,6 @@
 [submodule "WorldGuard"]
 	path = WorldGuard
 	url = https://github.com/true-og/WorldGuard
+[submodule "Vault"]
+	path = Vault
+	url = https://github.com/true-og/Vault
