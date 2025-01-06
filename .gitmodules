@@ -1,6 +1,3 @@
-[submodule "AntiPopup"]
-	path = AntiPopup
-	url = https://github.com/true-og/AntiPopup
 [submodule "AreaShop"]
 	path = AreaShop
 	url = https://github.com/true-og/AreaShop
@@ -124,3 +121,6 @@
 [submodule "AFKPlus"]
 	path = AFKPlus
 	url = https://github.com/true-og/AFKPlus
+[submodule "liberated-chat"]
+	path = liberated-chat
+	url = https://github.com/true-og/liberated-chat
