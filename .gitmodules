@@ -121,3 +121,6 @@
 [submodule "liberated-chat"]
 	path = liberated-chat
 	url = https://github.com/true-og/liberated-chat
+[submodule "AFKPlus-PAPI"]
+	path = AFKPlus-PAPI
+	url = https://github.com/true-og/AFKPlus-PAPI
