@@ -124,3 +124,6 @@
 [submodule "AnnouncerPlus"]
 	path = AnnouncerPlus
 	url = https://github.com/jpenilla/AnnouncerPlus
+[submodule "Distant-Horizons-Server"]
+	path = Distant-Horizons-Server
+	url = https://github.com/true-og/Distant-Horizons-Server
