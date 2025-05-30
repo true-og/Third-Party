@@ -67,9 +67,6 @@
 [submodule "VotingPlugin"]
 	path = VotingPlugin
 	url = https://github.com/true-og/VotingPlugin
-[submodule "WorldEdit"]
-	path = WorldEdit
-	url = https://github.com/true-og/WorldEdit
 [submodule "WorldEditSUI"]
 	path = WorldEditSUI
 	url = https://github.com/true-og/WorldEditSUI
