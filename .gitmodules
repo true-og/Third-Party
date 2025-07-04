@@ -82,9 +82,6 @@
 [submodule "ChunkSpawnerLimiter"]
 	path = ChunkSpawnerLimiter
 	url = https://github.com/true-og/ChunkSpawnerLimiter
-[submodule "EssentialsKitGUI"]
-	path = EssentialsKitGUI
-	url = https://github.com/true-og/EssentialsKitGUI
 [submodule "AdvancedServerList"]
 	path = AdvancedServerList
 	url = https://github.com/true-og/AdvancedServerList
