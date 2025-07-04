@@ -124,3 +124,6 @@
 [submodule "WorldEdit"]
 	path = WorldEdit
 	url = https://github.com/true-og/WorldEdit
+[submodule "Distant-Horizons-Server"]
+	path = Distant-Horizons-Server
+	url = https://github.com/true-og/Distant-Horizons-Server
