@@ -16,9 +16,6 @@
 [submodule "GameModeInventories"]
 	path = GameModeInventories
 	url = https://github.com/true-og/GameModeInventories
-[submodule "InteractiveChat"]
-	path = InteractiveChat
-	url = https://github.com/true-og/InteractiveChat
 [submodule "MiniPlaceholders"]
 	path = MiniPlaceholders
 	url = https://github.com/true-og/MiniPlaceholders
