@@ -10,17 +10,17 @@ See each individual submodule for relevant licenses. Nothing is more restrictive
 
 # All Third Party plugins should abide by the following standards, if applicable:
 
-**Gradle 8.14.2:**
+**Gradle 8.14.3:**
 
-```./gradlew wrapper --gradle-version=8.14.2```
+```./gradlew wrapper --gradle-version=8.14.3```
 
 **Kotlin Gradle files:**
 
 ```build.gradle.kts, settings.gradle.kts```
 
-**Shadow 8.3.6 from gradleup:**
+**Shadow 8.3.8 from gradleup:**
 
-```plugins { id("com.gradleup.shadow") version "8.3.6" }```
+```plugins { id("com.gradleup.shadow") version "8.3.8" }```
 
 **[Paperweight API](https://docs.papermc.io/paper/dev/userdev/) 2.0.0-beta.17:**
 
