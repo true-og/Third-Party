@@ -121,3 +121,6 @@
 [submodule "Distant-Horizons-Server"]
 	path = Distant-Horizons-Server
 	url = https://github.com/true-og/Distant-Horizons-Server
+[submodule "ChatItem"]
+	path = ChatItem
+	url = https://github.com/true-og/ChatItem
