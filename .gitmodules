@@ -124,3 +124,6 @@
 [submodule "ChatItem"]
 	path = ChatItem
 	url = https://github.com/true-og/ChatItem
+[submodule "CraftingStore"]
+	path = CraftingStore
+	url = https://github.com/true-og/CraftingStore
