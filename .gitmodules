@@ -130,3 +130,6 @@
 [submodule "FastCrystals"]
 	path = FastCrystals
 	url = https://github.com/true-og/FastCrystals
+[submodule "OldCombatMechanics"]
+	path = OldCombatMechanics
+	url = https://github.com/true-og/OldCombatMechanics
