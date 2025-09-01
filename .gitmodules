@@ -133,3 +133,6 @@
 [submodule "OldCombatMechanics"]
 	path = OldCombatMechanics
 	url = https://github.com/true-og/OldCombatMechanics
+[submodule "Grim"]
+	path = Grim
+	url = https://github.com/true-og/Grim
