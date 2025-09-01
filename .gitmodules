@@ -136,3 +136,6 @@
 [submodule "Grim"]
 	path = Grim
 	url = https://github.com/true-og/Grim
+[submodule "WaypointObfuscator"]
+	path = WaypointObfuscator
+	url = https://github.com/true-og/WaypointObfuscator
