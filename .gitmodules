@@ -139,3 +139,6 @@
 [submodule "WaypointObfuscator"]
 	path = WaypointObfuscator
 	url = https://github.com/true-og/WaypointObfuscator
+[submodule "LuckPerms"]
+	path = LuckPerms
+	url = https://github.com/true-og/LuckPerms
