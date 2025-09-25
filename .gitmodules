@@ -10,9 +10,6 @@
 [submodule "EternalCombat"]
 	path = EternalCombat
 	url = https://github.com/true-og/EternalCombat
-[submodule "FancyHolograms"]
-	path = FancyHolograms
-	url = https://github.com/true-og/FancyHolograms
 [submodule "GameModeInventories"]
 	path = GameModeInventories
 	url = https://github.com/true-og/GameModeInventories
@@ -142,3 +139,9 @@
 [submodule "LuckPerms"]
 	path = LuckPerms
 	url = https://github.com/true-og/LuckPerms
+[submodule "ViaErrorHandler"]
+	path = ViaErrorHandler
+	url = https://github.com/true-og/ViaErrorHandler
+[submodule "EndPortalEntityExitRelocate"]
+	path = EndPortalEntityExitRelocate
+	url = https://github.com/true-og/EndPortalEntityExitRelocate
