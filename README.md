@@ -4,7 +4,16 @@
 
 *ad astra per aspera*
 
-Plugins used by TrueOG Network where the only changes we make are to the build scripts and config files. We also repair broken dependencies, remove failing subproject builds for unsupported server jars, and purge telemetry and log4j for security reasons. Any plugins with more comprehensive code changes than that belong in [Soft Forks](https://github.com/true-og/Soft-Forks).
+Plugins in-use by [TrueOG Network](https://true-og.net) with minimal changes only, including:
+
+- Updating build scripts
+- Fixing broken dependencies
+- Modifying config files
+- Removing unnecessary submodules causing build failures
+- Removing telemetry and metrics
+- Removing log4j
+
+Plugins with changes more comprehensive than the scope of this suite belong in [Soft Forks](https://github.com/true-og/Soft-Forks).
 
 See each individual submodule for relevant licenses. Nothing is more restrictive than GPLv3.
 
