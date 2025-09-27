@@ -145,3 +145,6 @@
 [submodule "EndPortalEntityExitRelocate"]
 	path = EndPortalEntityExitRelocate
 	url = https://github.com/true-og/EndPortalEntityExitRelocate
+[submodule "PlaceholderAdapter-Expansion"]
+	path = PlaceholderAdapter-Expansion
+	url = https://github.com/true-og/PlaceholderAdapter-Expansion
