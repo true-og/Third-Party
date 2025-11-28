@@ -130,9 +130,6 @@
 [submodule "OldCombatMechanics"]
 	path = OldCombatMechanics
 	url = https://github.com/true-og/OldCombatMechanics
-[submodule "Grim"]
-	path = Grim
-	url = https://github.com/true-og/Grim
 [submodule "WaypointObfuscator"]
 	path = WaypointObfuscator
 	url = https://github.com/true-og/WaypointObfuscator
@@ -148,3 +145,6 @@
 [submodule "PlaceholderAdapter-Expansion"]
 	path = PlaceholderAdapter-Expansion
 	url = https://github.com/true-og/PlaceholderAdapter-Expansion
+[submodule "LightningGrim"]
+	path = LightningGrim
+	url = https://github.com/true-og/LightningGrim
