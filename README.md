@@ -27,9 +27,9 @@ See each individual submodule for relevant licenses. Nothing is more restrictive
 
 ```build.gradle.kts, settings.gradle.kts```
 
-**Shadow 8.3.8 from gradleup:**
+**Shadow 8.3.9 from gradleup:**
 
-```plugins { id("com.gradleup.shadow") version "8.3.8" }```
+```plugins { id("com.gradleup.shadow") version "8.3.9" }```
 
 **[Paperweight API](https://docs.papermc.io/paper/dev/userdev/) 2.0.0-beta.17:**
 
