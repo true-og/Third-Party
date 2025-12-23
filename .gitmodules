@@ -148,3 +148,6 @@
 [submodule "LightningGrim"]
 	path = LightningGrim
 	url = https://github.com/true-og/LightningGrim
+[submodule "Duels"]
+	path = Duels
+	url = https://github.com/true-og/Duels
