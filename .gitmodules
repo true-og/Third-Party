@@ -73,9 +73,6 @@
 [submodule "PlaceholderAPI"]
 	path = PlaceholderAPI
 	url = https://github.com/true-og/PlaceholderAPI/
-[submodule "ChunkSpawnerLimiter"]
-	path = ChunkSpawnerLimiter
-	url = https://github.com/true-og/ChunkSpawnerLimiter
 [submodule "AdvancedServerList"]
 	path = AdvancedServerList
 	url = https://github.com/true-og/AdvancedServerList
