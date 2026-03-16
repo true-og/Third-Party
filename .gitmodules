@@ -73,9 +73,6 @@
 [submodule "PlaceholderAPI"]
 	path = PlaceholderAPI
 	url = https://github.com/true-og/PlaceholderAPI/
-[submodule "AdvancedServerList"]
-	path = AdvancedServerList
-	url = https://github.com/true-og/AdvancedServerList
 [submodule "BuildBattle"]
 	path = BuildBattle
 	url = https://github.com/true-og/BuildBattle
