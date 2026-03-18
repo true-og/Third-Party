@@ -70,9 +70,6 @@
 [submodule "PlaceholderAPI"]
 	path = PlaceholderAPI
 	url = https://github.com/true-og/PlaceholderAPI/
-[submodule "BuildBattle"]
-	path = BuildBattle
-	url = https://github.com/true-og/BuildBattle
 [submodule "TextGenerator"]
 	path = TextGenerator
 	url = https://github.com/true-og/TextGenerator
