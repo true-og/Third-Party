@@ -69,7 +69,7 @@
 	url = https://github.com/true-og/MiniPlaceholders-LuckPerms
 [submodule "PlaceholderAPI"]
 	path = PlaceholderAPI
-	url = https://github.com/true-og/PlaceholderAPI/
+	url = https://github.com/true-og/PlaceholderAPI
 [submodule "TextGenerator"]
 	path = TextGenerator
 	url = https://github.com/true-og/TextGenerator
