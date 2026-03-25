@@ -109,9 +109,6 @@
 [submodule "CraftingStore"]
 	path = CraftingStore
 	url = https://github.com/true-og/CraftingStore
-[submodule "OldCombatMechanics"]
-	path = OldCombatMechanics
-	url = https://github.com/true-og/OldCombatMechanics
 [submodule "WaypointObfuscator"]
 	path = WaypointObfuscator
 	url = https://github.com/true-og/WaypointObfuscator
