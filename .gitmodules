@@ -85,12 +85,6 @@
 [submodule "Vault"]
 	path = Vault
 	url = https://github.com/true-og/Vault
-[submodule "AFKPlus"]
-	path = AFKPlus
-	url = https://github.com/true-og/AFKPlus
-[submodule "AFKPlus-PAPI"]
-	path = AFKPlus-PAPI
-	url = https://github.com/true-og/AFKPlus-PAPI
 [submodule "AnnouncerPlus"]
 	path = AnnouncerPlus
 	url = https://github.com/true-og/AnnouncerPlus
