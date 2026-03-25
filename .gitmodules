@@ -130,3 +130,6 @@
 [submodule "Duels"]
 	path = Duels
 	url = https://github.com/true-og/Duels
+[submodule "PacketEvents"]
+	path = PacketEvents
+	url = https://github.com/true-og/PacketEvents
