@@ -127,3 +127,6 @@
 [submodule "OldCombatMechanics"]
 	path = OldCombatMechanics
 	url = https://github.com/true-og/OldCombatMechanics
+[submodule "ImageFrame"]
+	path = ImageFrame
+	url = https://github.com/true-og/ImageFrame
