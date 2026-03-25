@@ -124,3 +124,6 @@
 [submodule "PacketEvents"]
 	path = PacketEvents
 	url = https://github.com/true-og/PacketEvents
+[submodule "OldCombatMechanics"]
+	path = OldCombatMechanics
+	url = https://github.com/true-og/OldCombatMechanics
