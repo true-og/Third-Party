@@ -121,3 +121,6 @@
 [submodule "MyWorlds"]
 	path = MyWorlds
 	url = https://github.com/true-og/MyWorlds
+[submodule "Essentials-PAPI"]
+	path = Essentials-PAPI
+	url = https://github.com/true-og/Essentials-PAPI
