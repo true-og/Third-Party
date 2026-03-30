@@ -16,15 +16,6 @@
 [submodule "MiniPlaceholders"]
 	path = MiniPlaceholders
 	url = https://github.com/true-og/MiniPlaceholders
-[submodule "Multiverse-Core"]
-	path = Multiverse-Core
-	url = https://github.com/true-og/Multiverse-Core
-[submodule "Multiverse-Inventories"]
-	path = Multiverse-Inventories
-	url = https://github.com/true-og/Multiverse-Inventories
-[submodule "Multiverse-SignPortals"]
-	path = Multiverse-SignPortals
-	url = https://github.com/true-og/Multiverse-SignPortals
 [submodule "NoCheatPlus"]
 	path = NoCheatPlus
 	url = https://github.com/true-og/NoCheatPlus
@@ -127,3 +118,6 @@
 [submodule "ImageFrame"]
 	path = ImageFrame
 	url = https://github.com/true-og/ImageFrame
+[submodule "MyWorlds"]
+	path = MyWorlds
+	url = https://github.com/true-og/MyWorlds
