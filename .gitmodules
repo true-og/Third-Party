@@ -124,3 +124,6 @@
 [submodule "Essentials-PAPI"]
 	path = Essentials-PAPI
 	url = https://github.com/true-og/Essentials-PAPI
+[submodule "BKCommonLib"]
+	path = BKCommonLib
+	url = https://github.com/true-og/BKCommonLib
