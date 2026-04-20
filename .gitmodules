@@ -121,3 +121,6 @@
 [submodule "BKCommonLib"]
 	path = BKCommonLib
 	url = https://github.com/true-og/BKCommonLib
+[submodule "ViaRewind-Legacy-Support"]
+	path = ViaRewind-Legacy-Support
+	url = https://github.com/true-og/ViaRewind-Legacy-Support
