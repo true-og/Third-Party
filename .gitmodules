@@ -10,9 +10,6 @@
 [submodule "EternalCombat"]
 	path = EternalCombat
 	url = https://github.com/true-og/EternalCombat
-[submodule "GameModeInventories"]
-	path = GameModeInventories
-	url = https://github.com/true-og/GameModeInventories
 [submodule "MiniPlaceholders"]
 	path = MiniPlaceholders
 	url = https://github.com/true-og/MiniPlaceholders
