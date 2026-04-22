@@ -22,9 +22,6 @@
 [submodule "RayTraceAntiXray"]
 	path = RayTraceAntiXray
 	url = https://github.com/true-og/RayTraceAntiXray
-[submodule "SimpleClans"]
-	path = SimpleClans
-	url = https://github.com/true-og/SimpleClans
 [submodule "TabCompleteFilter"]
 	path = TabCompleteFilter
 	url = https://github.com/true-og/TabCompleteFilter
