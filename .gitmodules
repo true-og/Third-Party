@@ -121,3 +121,6 @@
 [submodule "Statistics-PAPI"]
 	path = Statistics-PAPI
 	url = https://github.com/true-og/Statistics-PAPI
+[submodule "BattleArena"]
+	path = BattleArena
+	url = https://github.com/true-og/BattleArena
