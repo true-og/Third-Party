@@ -124,3 +124,6 @@
 [submodule "BattleArena"]
 	path = BattleArena
 	url = https://github.com/true-og/BattleArena
+[submodule "BattleTracker"]
+	path = BattleTracker
+	url = https://github.com/true-og/BattleTracker
