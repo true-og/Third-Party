@@ -127,3 +127,6 @@
 [submodule "Server-PAPI"]
 	path = Server-PAPI
 	url = https://github.com/true-og/Server-PAPI
+[submodule "LuckPerms-PAPI"]
+	path = LuckPerms-PAPI
+	url = https://github.com/true-og/LuckPerms-PAPI
