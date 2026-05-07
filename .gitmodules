@@ -61,9 +61,6 @@
 [submodule "WorldGuard"]
 	path = WorldGuard
 	url = https://github.com/true-og/WorldGuard
-[submodule "AnnouncerPlus"]
-	path = AnnouncerPlus
-	url = https://github.com/true-og/AnnouncerPlus
 [submodule "WorldEdit"]
 	path = WorldEdit
 	url = https://github.com/true-og/WorldEdit
