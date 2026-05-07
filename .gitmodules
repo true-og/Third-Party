@@ -130,3 +130,6 @@
 [submodule "LuckPerms-PAPI"]
 	path = LuckPerms-PAPI
 	url = https://github.com/true-og/LuckPerms-PAPI
+[submodule "Player-PAPI"]
+	path = Player-PAPI
+	url = https://github.com/true-og/Player-PAPI
