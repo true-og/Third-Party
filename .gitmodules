@@ -4,9 +4,6 @@
 [submodule "Chunky"]
 	path = Chunky
 	url = https://github.com/true-og/Chunky
-[submodule "EternalCombat"]
-	path = EternalCombat
-	url = https://github.com/true-og/EternalCombat
 [submodule "MiniPlaceholders"]
 	path = MiniPlaceholders
 	url = https://github.com/true-og/MiniPlaceholders
