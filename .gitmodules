@@ -76,9 +76,6 @@
 [submodule "ViaErrorHandler"]
 	path = ViaErrorHandler
 	url = https://github.com/true-og/ViaErrorHandler
-[submodule "EndPortalEntityExitRelocate"]
-	path = EndPortalEntityExitRelocate
-	url = https://github.com/true-og/EndPortalEntityExitRelocate
 [submodule "PlaceholderAdapter-Expansion"]
 	path = PlaceholderAdapter-Expansion
 	url = https://github.com/true-og/PlaceholderAdapter-Expansion
