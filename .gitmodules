@@ -121,3 +121,6 @@
 [submodule "Player-PAPI"]
 	path = Player-PAPI
 	url = https://github.com/true-og/Player-PAPI
+[submodule "Cap-Pearl-Speed"]
+	path = Cap-Pearl-Speed
+	url = https://github.com/true-og/Cap-Pearl-Speed
