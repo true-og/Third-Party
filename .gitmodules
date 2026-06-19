@@ -19,9 +19,6 @@
 [submodule "RayTraceAntiXray"]
 	path = RayTraceAntiXray
 	url = https://github.com/true-og/RayTraceAntiXray
-[submodule "TabCompleteFilter"]
-	path = TabCompleteFilter
-	url = https://github.com/true-og/TabCompleteFilter
 [submodule "TCPShield"]
 	path = TCPShield
 	url = https://github.com/true-og/TCPShield
@@ -127,3 +124,6 @@
 [submodule "AxSmithing"]
 	path = AxSmithing
 	url = https://github.com/true-og/AxSmithing
+[submodule "ProAntiTab"]
+	path = ProAntiTab
+	url = https://github.com/true-og/ProAntiTab
