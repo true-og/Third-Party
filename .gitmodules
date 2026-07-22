@@ -127,3 +127,12 @@
 [submodule "ProAntiTab"]
 	path = ProAntiTab
 	url = https://github.com/true-og/ProAntiTab
+[submodule "QuickShop-OG-compat-worldedit"]
+	path = QuickShop-OG-compat-worldedit
+	url = https://github.com/true-og/QuickShop-OG-compat-worldedit
+[submodule "QuickShop-OG-compat-worldguard"]
+	path = QuickShop-OG-compat-worldguard
+	url = https://github.com/true-og/QuickShop-OG-compat-worldguard
+[submodule "QuickShop-OG-compat-nocheatplus"]
+	path = QuickShop-OG-compat-nocheatplus
+	url = https://github.com/true-og/QuickShop-OG-compat-nocheatplus
