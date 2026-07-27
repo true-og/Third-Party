@@ -1,6 +1,3 @@
-[submodule "AreaShop"]
-	path = AreaShop
-	url = https://github.com/true-og/AreaShop
 [submodule "Chunky"]
 	path = Chunky
 	url = https://github.com/true-og/Chunky
