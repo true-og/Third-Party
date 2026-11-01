@@ -130,3 +130,6 @@
 [submodule "QuickShop-OG-compat-nocheatplus"]
 	path = QuickShop-OG-compat-nocheatplus
 	url = https://git.trueog.net/trueog/QuickShop-OG-compat-nocheatplus
+[submodule "EndPortalEntityExitRelocate"]
+	path = EndPortalEntityExitRelocate
+	url = https://git.trueog.net/trueog/EndPortalEntityExitRelocate
