@@ -133,3 +133,6 @@
 [submodule "EndPortalEntityExitRelocate"]
 	path = EndPortalEntityExitRelocate
 	url = https://git.trueog.net/trueog/EndPortalEntityExitRelocate
+[submodule "TabCompleteFilter"]
+	path = TabCompleteFilter
+	url = https://git.trueog.net/trueog/TabCompleteFilter
