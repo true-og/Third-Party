@@ -1,6 +1,6 @@
 # Third-Party
 
-![Icon](https://github.com/true-og/website/blob/main/assets/images/logos/Logo-Alternate-Transparent.png)
+![Icon](https://git.trueog.net/trueog/website/raw/branch/main/assets/images/logos/Logo-Alternate-Transparent.png)
 
 *ad astra per aspera*
 
@@ -13,7 +13,7 @@ Plugins in-use by [TrueOG Network](https://true-og.net) with minimal changes onl
 - Removing telemetry and metrics
 - Removing log4j
 
-Plugins with changes more comprehensive than the scope of this suite belong in [Soft Forks](https://github.com/true-og/Soft-Forks).
+Plugins with changes more comprehensive than the scope of this suite belong in [Soft Forks](https://git.trueog.net/trueog/Soft-Forks).
 
 See each individual submodule for relevant licenses. Nothing is more restrictive than GPLv3.
 
