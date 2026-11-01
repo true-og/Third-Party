@@ -1,132 +1,132 @@
 [submodule "Chunky"]
 	path = Chunky
-	url = https://github.com/true-og/Chunky
+	url = https://git.trueog.net/trueog/Chunky
 [submodule "MiniPlaceholders"]
 	path = MiniPlaceholders
-	url = https://github.com/true-og/MiniPlaceholders
+	url = https://git.trueog.net/trueog/MiniPlaceholders
 [submodule "NoCheatPlus"]
 	path = NoCheatPlus
-	url = https://github.com/true-og/NoCheatPlus
+	url = https://git.trueog.net/trueog/NoCheatPlus
 [submodule "OpenInv"]
 	path = OpenInv
-	url = https://github.com/true-og/OpenInv
+	url = https://git.trueog.net/trueog/OpenInv
 [submodule "ProtocolLib"]
 	path = ProtocolLib
-	url = https://github.com/true-og/ProtocolLib
+	url = https://git.trueog.net/trueog/ProtocolLib
 [submodule "RayTraceAntiXray"]
 	path = RayTraceAntiXray
-	url = https://github.com/true-og/RayTraceAntiXray
+	url = https://git.trueog.net/trueog/RayTraceAntiXray
 [submodule "TCPShield"]
 	path = TCPShield
-	url = https://github.com/true-og/TCPShield
+	url = https://git.trueog.net/trueog/TCPShield
 [submodule "ViaBackwards"]
 	path = ViaBackwards
-	url = https://github.com/true-og/ViaBackwards
+	url = https://git.trueog.net/trueog/ViaBackwards
 [submodule "ViaRewind"]
 	path = ViaRewind
-	url = https://github.com/true-og/ViaRewind
+	url = https://git.trueog.net/trueog/ViaRewind
 [submodule "ViaVersion"]
 	path = ViaVersion
-	url = https://github.com/true-og/ViaVersion
+	url = https://git.trueog.net/trueog/ViaVersion
 [submodule "VotingPlugin"]
 	path = VotingPlugin
-	url = https://github.com/true-og/VotingPlugin
+	url = https://git.trueog.net/trueog/VotingPlugin
 [submodule "WorldEditSUI"]
 	path = WorldEditSUI
-	url = https://github.com/true-og/WorldEditSUI
+	url = https://git.trueog.net/trueog/WorldEditSUI
 [submodule "MiniPlaceholders-LuckPerms"]
 	path = MiniPlaceholders-LuckPerms
-	url = https://github.com/true-og/MiniPlaceholders-LuckPerms
+	url = https://git.trueog.net/trueog/MiniPlaceholders-LuckPerms
 [submodule "PlaceholderAPI"]
 	path = PlaceholderAPI
-	url = https://github.com/true-og/PlaceholderAPI
+	url = https://git.trueog.net/trueog/PlaceholderAPI
 [submodule "TextGenerator"]
 	path = TextGenerator
-	url = https://github.com/true-og/TextGenerator
+	url = https://git.trueog.net/trueog/TextGenerator
 [submodule "Item-NBT-API"]
 	path = Item-NBT-API
-	url = https://github.com/true-og/Item-NBT-API
+	url = https://git.trueog.net/trueog/Item-NBT-API
 [submodule "Maintenance"]
 	path = Maintenance
-	url = https://github.com/true-og/Maintenance
+	url = https://git.trueog.net/trueog/Maintenance
 [submodule "WorldGuard"]
 	path = WorldGuard
-	url = https://github.com/true-og/WorldGuard
+	url = https://git.trueog.net/trueog/WorldGuard
 [submodule "WorldEdit"]
 	path = WorldEdit
-	url = https://github.com/true-og/WorldEdit
+	url = https://git.trueog.net/trueog/WorldEdit
 [submodule "Distant-Horizons-Server"]
 	path = Distant-Horizons-Server
-	url = https://github.com/true-og/Distant-Horizons-Server
+	url = https://git.trueog.net/trueog/Distant-Horizons-Server
 [submodule "ChatItem"]
 	path = ChatItem
-	url = https://github.com/true-og/ChatItem
+	url = https://git.trueog.net/trueog/ChatItem
 [submodule "WaypointObfuscator"]
 	path = WaypointObfuscator
-	url = https://github.com/true-og/WaypointObfuscator
+	url = https://git.trueog.net/trueog/WaypointObfuscator
 [submodule "LuckPerms"]
 	path = LuckPerms
-	url = https://github.com/true-og/LuckPerms
+	url = https://git.trueog.net/trueog/LuckPerms
 [submodule "ViaErrorHandler"]
 	path = ViaErrorHandler
-	url = https://github.com/true-og/ViaErrorHandler
+	url = https://git.trueog.net/trueog/ViaErrorHandler
 [submodule "PlaceholderAdapter-Expansion"]
 	path = PlaceholderAdapter-Expansion
-	url = https://github.com/true-og/PlaceholderAdapter-Expansion
+	url = https://git.trueog.net/trueog/PlaceholderAdapter-Expansion
 [submodule "LightningGrim"]
 	path = LightningGrim
-	url = https://github.com/true-og/LightningGrim
+	url = https://git.trueog.net/trueog/LightningGrim
 [submodule "PacketEvents"]
 	path = PacketEvents
-	url = https://github.com/true-og/PacketEvents
+	url = https://git.trueog.net/trueog/PacketEvents
 [submodule "OldCombatMechanics"]
 	path = OldCombatMechanics
-	url = https://github.com/true-og/OldCombatMechanics
+	url = https://git.trueog.net/trueog/OldCombatMechanics
 [submodule "ImageFrame"]
 	path = ImageFrame
-	url = https://github.com/true-og/ImageFrame
+	url = https://git.trueog.net/trueog/ImageFrame
 [submodule "MyWorlds"]
 	path = MyWorlds
-	url = https://github.com/true-og/MyWorlds
+	url = https://git.trueog.net/trueog/MyWorlds
 [submodule "Essentials-PAPI"]
 	path = Essentials-PAPI
-	url = https://github.com/true-og/Essentials-PAPI
+	url = https://git.trueog.net/trueog/Essentials-PAPI
 [submodule "BKCommonLib"]
 	path = BKCommonLib
-	url = https://github.com/true-og/BKCommonLib
+	url = https://git.trueog.net/trueog/BKCommonLib
 [submodule "ViaRewind-Legacy-Support"]
 	path = ViaRewind-Legacy-Support
-	url = https://github.com/true-og/ViaRewind-Legacy-Support
+	url = https://git.trueog.net/trueog/ViaRewind-Legacy-Support
 [submodule "Statistics-PAPI"]
 	path = Statistics-PAPI
-	url = https://github.com/true-og/Statistics-PAPI
+	url = https://git.trueog.net/trueog/Statistics-PAPI
 [submodule "BattleTracker"]
 	path = BattleTracker
-	url = https://github.com/true-og/BattleTracker
+	url = https://git.trueog.net/trueog/BattleTracker
 [submodule "Server-PAPI"]
 	path = Server-PAPI
-	url = https://github.com/true-og/Server-PAPI
+	url = https://git.trueog.net/trueog/Server-PAPI
 [submodule "LuckPerms-PAPI"]
 	path = LuckPerms-PAPI
-	url = https://github.com/true-og/LuckPerms-PAPI
+	url = https://git.trueog.net/trueog/LuckPerms-PAPI
 [submodule "Player-PAPI"]
 	path = Player-PAPI
-	url = https://github.com/true-og/Player-PAPI
+	url = https://git.trueog.net/trueog/Player-PAPI
 [submodule "Cap-Pearl-Speed"]
 	path = Cap-Pearl-Speed
-	url = https://github.com/true-og/Cap-Pearl-Speed
+	url = https://git.trueog.net/trueog/Cap-Pearl-Speed
 [submodule "AxSmithing"]
 	path = AxSmithing
-	url = https://github.com/true-og/AxSmithing
+	url = https://git.trueog.net/trueog/AxSmithing
 [submodule "ProAntiTab"]
 	path = ProAntiTab
-	url = https://github.com/true-og/ProAntiTab
+	url = https://git.trueog.net/trueog/ProAntiTab
 [submodule "QuickShop-OG-compat-worldedit"]
 	path = QuickShop-OG-compat-worldedit
-	url = https://github.com/true-og/QuickShop-OG-compat-worldedit
+	url = https://git.trueog.net/trueog/QuickShop-OG-compat-worldedit
 [submodule "QuickShop-OG-compat-worldguard"]
 	path = QuickShop-OG-compat-worldguard
-	url = https://github.com/true-og/QuickShop-OG-compat-worldguard
+	url = https://git.trueog.net/trueog/QuickShop-OG-compat-worldguard
 [submodule "QuickShop-OG-compat-nocheatplus"]
 	path = QuickShop-OG-compat-nocheatplus
-	url = https://github.com/true-og/QuickShop-OG-compat-nocheatplus
+	url = https://git.trueog.net/trueog/QuickShop-OG-compat-nocheatplus
